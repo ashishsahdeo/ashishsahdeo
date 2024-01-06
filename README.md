@@ -1,16 +1,13 @@
-### Hi there 👋
+Full Stack Developer, open to collaborations.
+## Skills
 
-<!--
-**ashishsahdeo/ashishsahdeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Languages     | Frameworks         | Libraries/Tools   |
+|---------------|--------------------|-------------------|
+| Python        | SvelteKit          |  Tailwind CSS     |
+| JavaScript    | React              |  jQuery           |
+| TypeScript    | React Native       |  Discord.js       |     
+| Dart          | Flutter            |  Blockchain       |      
+| HTML          | Django             |                   |
+| CSS           | Next.js            |                   |
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
